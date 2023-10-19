@@ -1,0 +1,14 @@
+.box{
+    width: 1249px;
+    height: 376px;
+    background-color:#22F4DA;
+    border-radius: 30px;
+}
+P{
+    color: #000000;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 39px;
+    
+}
