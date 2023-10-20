@@ -1,6 +1,8 @@
 .box{
     width: 1249px;
     height: 376px;
+    margin: auto;
+    margin-top: 73px;
     background-color:#22F4DA;
     border-radius: 30px;
 }
